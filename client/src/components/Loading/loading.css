@@ -1,0 +1,6 @@
+.loading {
+    position: absolute;
+    left: 47%;
+    top: 47%;
+    z-index: 500;
+}
